@@ -24,7 +24,7 @@ This app allows users to create, manage, search, update, and share text snippets
 
 ## 🏠 Home Page
 
-![Home Page](c:\Users\AnshPatel\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-08 090847.png)
+![Home Page](./screenshots/home.png)
 
 The home page allows users to:
 - Enter a title
@@ -35,7 +35,7 @@ The home page allows users to:
 
 ## 📂 Paste Management Page
 
-![Paste Page](c:\Users\AnshPatel\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-08 090930.png)
+![Paste Page](./screenshots/pastes.png)
 
 Users can:
 - Search saved pastes
