@@ -24,7 +24,8 @@ This app allows users to create, manage, search, update, and share text snippets
 
 ## 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+<img width="1337" height="628" alt="home png" src="https://github.com/user-attachments/assets/5de31273-5c47-4d7c-972a-1612508fe080" />
+
 
 The home page allows users to:
 - Enter a title
@@ -35,7 +36,8 @@ The home page allows users to:
 
 ## 📂 Paste Management Page
 
-![Paste Page](./screenshots/pastes.png)
+<img width="1354" height="618" alt="pastes png" src="https://github.com/user-attachments/assets/2ffb283b-722f-4ce4-913c-01f6fcc2a320" />
+
 
 Users can:
 - Search saved pastes
